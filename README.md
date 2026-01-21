@@ -10,7 +10,7 @@ Nossa missão é entregar soluções tecnológicas que geram resultados reais pa
 
 ## Tecnologias
 
-Tenho experiência sólidas com uma variedade de tecnologias, incluindo:
+Temos experiências sólidas com uma variedade de tecnologias, incluindo:
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
